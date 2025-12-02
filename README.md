@@ -2,8 +2,8 @@
 
 | User | Confirmed Stars | Raffle Tickets |
 | --- | --- | --- |
-| sekizeki | 2 | 1 |
-| lanzoor | 2 | 1 |
+| sekizeki | 4 | 2 |
+| lanzoor | 4 | 2 |
 | kirstie_11. | 2 | 1 |
 | moguwi | 2 | 1 |
 | kenaito | 2 | 1 |
