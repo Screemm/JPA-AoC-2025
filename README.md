@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | sekizeki | 8 | 4 |
 | lanzoor | 8 | 4 |
-| moguwi | 6 | 3 |
+| moguwi | 8 | 4 |
 | planegod3 | 6 | 3 |
 | carpetedkitchen. | 6 | 3 |
 | kirstie_11. | 6 | 3 |
