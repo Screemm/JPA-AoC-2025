@@ -6,9 +6,9 @@
 
 | User | Confirmed Stars | Raffle Tickets |
 | --- | --- | --- |
-| lanzoor | 12 | 6 |
-| sekizeki | 10 | 5 |
-| moguwi | 10 | 5 |
+| sekizeki | 16 | 8 |
+| moguwi | 16 | 8 |
+| lanzoor | 14 | 7 |
 | carpetedkitchen. | 9 | 4 |
 | planegod3 | 6 | 3 |
 | kirstie_11. | 6 | 3 |
